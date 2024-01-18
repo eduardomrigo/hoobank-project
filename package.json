@@ -2,7 +2,7 @@
   "name": "bank_app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://eduardomrigo.github.io/react-bank",
+  "homepage": "https://github.com/eduardomrigo/hoobank-project",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
